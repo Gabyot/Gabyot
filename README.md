@@ -1,6 +1,4 @@
-<p align="start">
-    <img width="200" src="https://github.com/Gabyot/Gabyot/blob/main/gabyot.png">
-</p>
+
 <h1> Hola, mi nombre es Gabriela Arancibia <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 [![Github](https://img.shields.io/github/followers/Gabyot?label=Follow&style=social)](https://github.com/Gabyot)
@@ -23,7 +21,9 @@ Supera tus límites aquí y ahora 🚀
 
 <p align='center'>
 </p>
-
+<p align="start">
+    <img width="200" src="https://github.com/Gabyot/Gabyot/blob/main/gabyot.png">
+</p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Gabyot?tab=repositories&q=&type=&language=kotlin&sort= ><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'></a>
