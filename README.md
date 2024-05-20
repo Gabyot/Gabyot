@@ -5,8 +5,8 @@
 
 <h2> Sobre mí </h2>
 <img width="200" align="right" src="https://github.com/Gabyot/Gabyot/blob/main/gabyot.png">
-<p>👩🏻‍💻 Trabajando como desarrolladora backend con Kotlin y Spring Boot</p>
-<p>🏛️ Formándome en Arquitecturas Limpias</p>
+<p>👩🏻‍💻 Trabajando como desarrolladora backend con Kotlin y Spring Boot.</p>
+<p>🏛️ Formándome en Arquitecturas Limpias.</p>
 <p>💼 Estoy trabajando en mi portafolio web.</p>
 <p>🌱 Estoy aprendiedo MERN Stack Development.</p>
 <p>👯 Busco colaborar con otros desarrolladores.</p>
