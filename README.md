@@ -4,8 +4,7 @@
 [![Github](https://img.shields.io/github/followers/Gabyot?label=Follow&style=social)](https://github.com/Gabyot)
 
 <h2> Sobre mí </h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<p>
+<img width="200" align="right" src="https://github.com/Gabyot/Gabyot/blob/main/gabyot.png">
 👩🏻‍💻 Trabajando como desarrolladora backend con Kotlin y Spring Boot.</p>
 <p>🏛️ Formandome en arquitectura de software y microservicios.</p>
 <p>💼 Estoy trabajando en mi portafolio web.</p>
@@ -34,9 +33,6 @@ Supera tus límites aquí y ahora 🚀
 <a href= https://github.com/Gabyot?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
 <a href= https://github.com/Gabyot?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'></a>
 
-<p align="start">
-    <img width="200" src="https://github.com/Gabyot/Gabyot/blob/main/gabyot.png">
-</p>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/gabriela-paz-arancibia-echeverr%C3%ADa-039a91142/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
