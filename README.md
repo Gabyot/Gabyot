@@ -36,6 +36,6 @@ Supera tus límites aquí y ahora 🚀
 
 <h2> Conecta conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/gabriela-paz-arancibia-echeverr%C3%ADa-039a91142/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = ''> <img width = '32px' align= 'center' src="https://gabyot.github.io/mi-portafolio/build/"/></a> 
+<a href = 'https://gabyot.github.io/mi-portafolio/build/'> <img width = '32px' align= 'center' src="	https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/web-icon.png"/></a> 
 <a href = 'https://www.github.com/Gabyot'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
